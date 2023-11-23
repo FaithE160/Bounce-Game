@@ -14,5 +14,5 @@ sudo dnf install python3-tkinter
 ```
 
 # ScreenShot:
-![Alt text](/Screenshot.png?raw=true "Optional Title")
+![Alt text](/ "Optional Title")
 
